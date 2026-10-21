@@ -37,8 +37,6 @@ in the game. The Workshop version is the easier way.
 
 ## License
 
-Free and open source under the [GNU GPL v3 or later](LICENSE). You may use, change and re-upload this mod, also as
-part of your own mod or modpack, as long as your version is released under the same license with its source open to
-everyone. Please keep the license notice in the files. A credit or a link back is appreciated, but not required.
+[GNU GPL v3 or later](LICENSE): free to use, change and re-upload, as long as your version stays open source.
 
 Made with the help of Claude Code.
