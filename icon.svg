@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- No XP From Life and Living (VHS Still Teaches) — icon source. Copyright (C) 2026 Okarim, GPL-3.0-or-later.
+       Rendered to preview.png (256) and Contents/mods/NoTVXP/42/poster.png (512). -->
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0" stop-color="#3a302a"/>
+      <stop offset="1" stop-color="#110e0c"/>
+    </radialGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a5f3b"/>
+      <stop offset="1" stop-color="#5a3c24"/>
+    </linearGradient>
+    <radialGradient id="crt" cx="45%" cy="40%" r="75%">
+      <stop offset="0" stop-color="#4f7a66"/>
+      <stop offset="0.6" stop-color="#22392f"/>
+      <stop offset="1" stop-color="#0d1813"/>
+    </radialGradient>
+    <linearGradient id="tape" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a3a3e"/>
+      <stop offset="1" stop-color="#26262a"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.18"/>
+    </pattern>
+    <clipPath id="screen"><rect x="70" y="112" width="168" height="134" rx="28"/></clipPath>
+    <clipPath id="window"><rect x="250" y="314" width="226" height="46" rx="4"/></clipPath>
+    <g id="hub">
+      <circle r="10" fill="#e2e2e2"/>
+      <g stroke="#26262a" stroke-width="2.5" stroke-linecap="round">
+        <line x1="0" y1="-9" x2="0" y2="9"/>
+        <line x1="-7.8" y1="-4.5" x2="7.8" y2="4.5"/>
+        <line x1="-7.8" y1="4.5" x2="7.8" y2="-4.5"/>
+      </g>
+      <circle r="3" fill="#e2e2e2"/>
+    </g>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+
+  <!-- TV -->
+  <g>
+    <line x1="160" y1="78" x2="110" y2="30" stroke="#9a9a9a" stroke-width="5" stroke-linecap="round"/>
+    <line x1="168" y1="78" x2="228" y2="36" stroke="#9a9a9a" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="110" cy="30" r="7" fill="#c8c8c8"/>
+    <circle cx="228" cy="36" r="7" fill="#c8c8c8"/>
+    <path d="M136 82 q28 -18 56 0 z" fill="#2a2a2a"/>
+    <rect x="70" y="290" width="22" height="22" rx="4" fill="#2a1d12"/>
+    <rect x="270" y="290" width="22" height="22" rx="4" fill="#2a1d12"/>
+    <rect x="44" y="78" width="276" height="220" rx="20" fill="url(#wood)" stroke="#24170d" stroke-width="5"/>
+    <rect x="58" y="100" width="192" height="158" rx="30" fill="#151515"/>
+    <rect x="70" y="112" width="168" height="134" rx="28" fill="url(#crt)"/>
+    <g clip-path="url(#screen)">
+      <text x="154" y="202" text-anchor="middle" font-family="Liberation Sans Narrow, Liberation Sans, sans-serif"
+            font-weight="700" font-size="66" fill="#9fe8b8">XP</text>
+      <rect x="70" y="112" width="168" height="134" fill="url(#scan)"/>
+      <ellipse cx="112" cy="134" rx="34" ry="11" fill="#fff" opacity="0.10" transform="rotate(-18 112 134)"/>
+    </g>
+    <circle cx="154" cy="179" r="52" fill="none" stroke="#e5402b" stroke-width="12"/>
+    <line x1="124" y1="149" x2="184" y2="209" stroke="#e5402b" stroke-width="12" stroke-linecap="round"/>
+    <rect x="260" y="100" width="46" height="158" rx="8" fill="#3d2a19"/>
+    <circle cx="283" cy="128" r="13" fill="#1c1c1c" stroke="#777" stroke-width="2"/>
+    <line x1="283" y1="128" x2="283" y2="117" stroke="#bbb" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="283" cy="166" r="13" fill="#1c1c1c" stroke="#777" stroke-width="2"/>
+    <line x1="283" y1="166" x2="292" y2="159" stroke="#bbb" stroke-width="3" stroke-linecap="round"/>
+    <g stroke="#24170d" stroke-width="3" stroke-linecap="round">
+      <line x1="270" y1="198" x2="296" y2="198"/>
+      <line x1="270" y1="208" x2="296" y2="208"/>
+      <line x1="270" y1="218" x2="296" y2="218"/>
+      <line x1="270" y1="228" x2="296" y2="228"/>
+      <line x1="270" y1="238" x2="296" y2="238"/>
+    </g>
+  </g>
+
+  <!-- VHS tape -->
+  <g transform="translate(348 298) scale(0.92) translate(-362 -300)">
+    <g transform="rotate(-9 362 300)">
+      <rect x="232" y="226" width="262" height="148" rx="10" fill="url(#tape)" stroke="#55524c" stroke-width="4"/>
+      <line x1="236" y1="252" x2="490" y2="252" stroke="#18181a" stroke-width="3"/>
+      <text x="250" y="246" font-family="Liberation Sans, sans-serif" font-weight="700" font-size="18"
+            font-style="italic" fill="#e2e2e2">VHS</text>
+      <rect x="250" y="258" width="226" height="48" rx="3" fill="#f1e8d3"/>
+      <text x="363" y="300" text-anchor="middle" font-family="Liberation Sans Narrow, Liberation Sans, sans-serif"
+            font-weight="700" font-size="48" fill="#1d6b35">+XP</text>
+      <rect x="250" y="314" width="226" height="46" rx="4" fill="#0b0b0c"/>
+      <g clip-path="url(#window)">
+        <circle cx="292" cy="337" r="30" fill="#3b2a1e"/>
+        <circle cx="434" cy="337" r="18" fill="#3b2a1e"/>
+        <use href="#hub" x="292" y="337"/>
+        <use href="#hub" x="434" y="337"/>
+      </g>
+      <rect x="250" y="314" width="226" height="46" rx="4" fill="none" stroke="#45454a" stroke-width="2"/>
+    </g>
+  </g>
+
+  <!-- title -->
+  <text x="256" y="450" text-anchor="middle" font-family="Liberation Sans Narrow, Liberation Sans, sans-serif"
+        font-weight="700" font-size="60" letter-spacing="1" fill="#f1e8d3" stroke="#110e0c" stroke-width="6"
+        paint-order="stroke">LIFE AND LIVING</text>
+  <text x="256" y="492" text-anchor="middle" font-family="Liberation Sans Narrow, Liberation Sans, sans-serif"
+        font-weight="700" font-size="34" fill="#e8892c"><tspan fill="#ff5a3c">NO XP</tspan> · VHS STILL TEACHES</text>
+</svg>
