@@ -41,6 +41,4 @@ Free and open source under the [GNU GPL v3 or later](LICENSE). You may use, chan
 part of your own mod or modpack, as long as your version is released under the same license with its source open to
 everyone. Please keep the license notice in the files. A credit or a link back is appreciated, but not required.
 
-## Credits
-
-Made by Okarim with AI assistance (Claude Code). I review and double-check the changes myself and test most of them in game.
+Made with the help of Claude Code.

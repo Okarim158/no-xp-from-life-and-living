@@ -25,7 +25,6 @@ description=[h2]License[/h2]
 description=Free and open source under the [url=https://www.gnu.org/licenses/gpl-3.0.html]GNU GPL v3 or later[/url]. You may use, change and re-upload this mod, also as part of your own mod or modpack, as long as your version is released under the same license with its source open to everyone. Please keep the license notice in the files. A credit or a link back is appreciated, but not required.
 description=Source code: [url=https://github.com/Okarim158/no-xp-from-life-and-living]github.com/Okarim158/no-xp-from-life-and-living[/url]
 description=
-description=[h2]Credits[/h2]
-description=Made by Okarim with AI assistance (Claude Code). I review and double-check the changes myself and test most of them in game.
+description=Made with the help of Claude Code.
 tags=Build 42;Balance;Skills;Multiplayer
 visibility=public
