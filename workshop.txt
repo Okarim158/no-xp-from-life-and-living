@@ -26,6 +26,6 @@ description=Free and open source under the [url=https://www.gnu.org/licenses/gpl
 description=Source code: [url=https://github.com/Okarim158/no-xp-from-life-and-living]github.com/Okarim158/no-xp-from-life-and-living[/url]
 description=
 description=[h2]Credits[/h2]
-description=Made by Okarim with AI assistance (Claude Code). I review and double-check every change myself and test it in game before each release.
+description=Made by Okarim with AI assistance (Claude Code). I review and double-check the changes myself and test most of them in game.
 tags=Build 42;Balance;Skills;Multiplayer
 visibility=public

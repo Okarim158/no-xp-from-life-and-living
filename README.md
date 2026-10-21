@@ -43,5 +43,4 @@ everyone. Please keep the license notice in the files. A credit or a link back i
 
 ## Credits
 
-Made by Okarim with AI assistance (Claude Code). I review and double-check every change myself and test it in game
-before each release.
+Made by Okarim with AI assistance (Claude Code). I review and double-check the changes myself and test most of them in game.
